@@ -1,6 +1,6 @@
 # Hi, I'm Nisha 👋
 
-**Software Engineer | Backend Development | Exploring AI**
+**Software Engineer | Backend Development | Exploring Agentic AI**
 
 I'm a software engineer with 6+ years of experience building enterprise applications, with a focus on backend development, APIs, and full-stack engineering.
 
